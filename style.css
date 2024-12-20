@@ -7,5 +7,11 @@ h1 {
 li {
     font-family: "Times New Roman", serif;
     font-size: 18px;
-    background-color: lightcoral;
+    background-color: #f08080;
+    padding: 15px;
+    width: 20%;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    display: inline-block;
+    box-sizing: border-box;
 }
